@@ -1,0 +1,126 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "156356",
+      "status": "unblock"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "156356",
+      "status": "block"
+    },
+    {
+      "id": "3",
+      "name": "user3",
+      "email": "user3@gmail.com",
+      "password": "156356",
+      "status": "unblock"
+    }
+  ],
+  "card": [
+    {
+      "id": "1",
+      "name": "Rock",
+      "description": "Gym Fitness Class",
+      "img": "https://myindianthings.com/cdn/shop/products/Gym_Yoga_wallpapers-compressed-page-008_800x.jpg?v=1658401561",
+      "title": "hello I am rock",
+      "day": "saturday",
+      "Time": "1 To 4"
+    },
+    {
+      "id": "2",
+      "name": "Paul",
+      "description": "Gym Fitness Club",
+      "img": "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?cs=srgb&dl=pexels-anush-1229356.jpg&fm=jpg",
+      "title": "Hello i am Paul",
+      "day": "Friday",
+      "Time": "6 To 7"
+    },
+    {
+      "id": "3",
+      "name": "Perk",
+      "description": "Yoga Club",
+      "img": "https://www.dmoose.com/cdn/shop/articles/1_3455f602-78bd-4a7d-87e6-bf7f6e188cd5.jpg?v=1652464549",
+      "title": "Hello i am Perk",
+      "day": "Tuesday",
+      "Time": "8 To 9"
+    }
+  ],
+  "aboutcard": [
+    {
+      "id": "1",
+      "img": "https://images.pexels.com/photos/31849591/pexels-photo-31849591/free-photo-of-muscular-man-posing-confidently-in-gym.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Shrey Patel",
+      "subtitle": "Gym specialist"
+    },
+    {
+      "id": "2",
+      "img": "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "poojan Patel",
+      "subtitle": "Yoga specialist"
+    },
+    {
+      "id": "3",
+      "img": "https://images.pexels.com/photos/30564857/pexels-photo-30564857/free-photo-of-muscular-man-lifting-weights-in-gym.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Bhavik Patel",
+      "subtitle": "Yoga specialist"
+    },
+    {
+      "id": "4",
+      "img": "https://images.pexels.com/photos/2105493/pexels-photo-2105493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "title": "Bhavik Patel",
+      "subtitle": "Yoga specialist"
+    }
+  ],
+  "feature": [
+    {
+      "id": "1",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness",
+      "description": "hello this is gym"
+    },
+    {
+      "id": "2",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness club",
+      "description": "hello this is gym1"
+    },
+    {
+      "id": "3",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness club",
+      "description": "hello this is gym2"
+    },
+    {
+      "id": "4",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness club",
+      "description": "hello this is gym3"
+    },
+    {
+      "id": "5",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness club",
+      "description": "hello this is gym4"
+    },
+    {
+      "id": "6",
+      "img": "https://media.istockphoto.com/id/1155234248/photo/fitness-instructor-standing-at-a-fitness-centre-and-smiling-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=GN53W27dvEeBP1pqgyhtphoBrqu9j68ctjS_L6SqMdw=",
+      "title": ":Gym Fitness club",
+      "description": "hello this is gym5"
+    }
+  ]
+}
